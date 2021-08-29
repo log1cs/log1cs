@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-Stats(don't care about it, it's j4f tbh):
+Stats(just ignore it, it's j4f tbh):
 
 
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=tokyonight)
