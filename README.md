@@ -2,6 +2,7 @@
 
 
 **I'm 17 years old, studying in Truong Dinh High School, Vietnam**
+
 **Currently i'm an Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And an noob-developer who interested in building ROM/Recovery for Android devices.**
 
 <table>
