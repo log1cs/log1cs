@@ -1,4 +1,4 @@
-# Hello! My name is Tuan Anh, a high school student from Vietnam like to make different things while other student doesn't :D <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+# Hello! My name is Tuan Anh, a high school student from Vietnam like to make different things about tech while other student doesn't :D <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
 
 **I'm 17 years old, studying in Truong Dinh High School, Vietnam**
