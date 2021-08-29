@@ -28,7 +28,7 @@ I've finished basic with these languages:
 - I’m currently learning <b>SQL in my next semester,HTML,or even CSS</b>
 
 
-####Devices owned:
+Devices owned:
 
 + Dell Vostro 15-3568(i3-7020u, 8GB RAM, 240GB SSD) <- This is my main laptop which mostly do the recovery building.
 
