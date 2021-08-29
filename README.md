@@ -12,8 +12,13 @@
 </table>
 
 ####Stats(don't care about it, it's j4f tbh):
+
+
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=gruvbox)](https://github.com/log1cs/github-readme-stats)
+
+
+
 ####I've finished basic with these languages:
  * <img align="left" alt="Python" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" /> Python
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
