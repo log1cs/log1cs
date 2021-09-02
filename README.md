@@ -5,6 +5,8 @@
 
 **Currently i'm an Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And an noob-developer who interested in building ROM/Recovery for Android devices.**
 
+My main project: [Unlock845](https://github.com/log1cs/Auto-Script-Unlock845LG)
+
 <table>
   <tr>
     <td>You are visitor</td>
