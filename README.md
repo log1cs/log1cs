@@ -1,9 +1,9 @@
-# Hello! My name is Tuan Anh, a high school student from Vietnam like to make different things about tech while other student doesn't :D <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+# Hello! My name is Tuan Anh. <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
 
 **I'm 17 years old, studying in Truong Dinh High School, Vietnam**
 
-**Currently i'm an Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And an noob-developer who interested in building ROM/Recovery for Android devices.**
+**Currently i'm a Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And a noob-developer who interested in building ROM/Recovery for Android devices.**
 
 Currently working on LG All-in-One toolbox. Release date TBA. Unlock845 now is a part of the LG AIO Toolbox. Be prepare.
 
