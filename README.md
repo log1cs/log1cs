@@ -5,7 +5,7 @@
 
 **Currently i'm a Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And a noob-developer who interested in building ROM/Recovery for Android devices.**
 
-Currently working on LG All-in-One toolbox. Release date TBA. Unlock845 now is a part of the LG AIO Toolbox. Be prepare.
+Currently working on LG All-in-One toolbox. Release date TBA. Unlock845 now is a part of the LG AIO Toolbox. Be prepared.
 
 My main project: [Unlock845](https://github.com/log1cs/Auto-Script-Unlock845LG)
 
