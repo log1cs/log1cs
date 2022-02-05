@@ -1,7 +1,7 @@
 # Hello! My name is Tuan Anh. Your average buildbot with decent skills lmao <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
 
-**I'm 17 years old, studying in Truong Dinh High School, Vietnam**
+**I'm 18 years old, studying in Truong Dinh High School, Vietnam**
 
 **Currently i'm a Hackintosh EFI builder for Dell Vostro 3568 i3-7020u. And a noob-developer who interested in building ROM/Recovery for Android devices.**
 
