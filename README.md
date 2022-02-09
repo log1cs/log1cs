@@ -33,8 +33,8 @@ Devices owned:
 
 + Dell Vostro 15-3568(i3-7020u, 8GB RAM, 240GB SSD) <- This is my main laptop which mostly do the recovery building.
 
-+ LG G7 ThinQ (G710VM,Black,4GB RAM,64GB Storage,SDM845) <- Main phone. Currently focusing on building PitchBlack recovery for this phone lol
+~~+ LG G7 ThinQ (G710VM,Black,4GB RAM,64GB Storage,SDM845) <- Main phone. Currently focusing on building PitchBlack recovery for this phone lol~~ SOLD
 
-+ Sony Xperia X Compact(SO-02J,3GB RAM,32GB Storage,Snapdragon 650) <- Second phone for listening to music, receive calls in my another phone number lol.
+~~+ Sony Xperia X Compact(SO-02J,3GB RAM,32GB Storage,Snapdragon 650) <- Second phone for listening to music, receive calls in my another phone number lol.~~ SOLD
 
   *<b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :)</b>*
