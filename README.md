@@ -35,6 +35,8 @@ Devices owned:
 
 + Xiaomi Mi 9T Pro/Redmi K20 Pro (SM8150, 128GB Storage, 6GB RAM, Red) <- This is my main phone right now. Currently doing some " development" for the phone.
 
++ Nokia 8 (MSM8998, 64GB Storage, 4GB RAM) <- side phone
+
  ~~LG G7 ThinQ (G710VM,Black,4GB RAM,64GB Storage,SDM845) <- Main phone. Currently focusing on building PitchBlack recovery for this phone lol~~ SOLD
 
 ~~Sony Xperia X Compact(SO-02J,3GB RAM,32GB Storage,Snapdragon 650) <- Second phone for listening to music, receive calls in my another phone number lol.~~ SOLD
