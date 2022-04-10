@@ -3,9 +3,6 @@
 
 **I'm 18 years old, studying in Truong Dinh High School, Vietnam**
 
-Currently working on LG All-in-One toolbox. Release date TBA. Unlock845 now is a part of the LG AIO Toolbox. Be prepared.
-
-My main project: [Unlock845](https://github.com/log1cs/Auto-Script-Unlock845LG)
 
 <table>
   <tr>
@@ -37,8 +34,3 @@ Devices owned:
 
 + Nokia 8 (MSM8998, 64GB Storage, 4GB RAM) <- side phone
 
- ~~LG G7 ThinQ (G710VM,Black,4GB RAM,64GB Storage,SDM845) <- Main phone. Currently focusing on building PitchBlack recovery for this phone lol~~ SOLD
-
-~~Sony Xperia X Compact(SO-02J,3GB RAM,32GB Storage,Snapdragon 650) <- Second phone for listening to music, receive calls in my another phone number lol.~~ SOLD
-
-  *<b>I like connecting with different people</b> so if you want to say <b>hi, I'd be happy to meet you! :)</b>*
