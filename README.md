@@ -14,8 +14,8 @@
 Stats(just ignore it, it's j4f tbh):
 
 
-![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=tokyonight)](https://github.com/log1cs/github-readme-stats)
+![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsLog1cs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLog1cs&theme=tokyonight)](https://github.com/itsLog1cs/github-readme-stats)
 
 
 
