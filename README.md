@@ -1,8 +1,6 @@
 # Hello! My name is Tuan Anh. Your average buildbot with some sense of development lmao <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
 
-**I'm 18 years old, studying in Truong Dinh High School, Vietnam**
-
 
 <table>
   <tr>
@@ -13,8 +11,8 @@
 
 Stats(just ignore it, it's j4f tbh):
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsLog1cs&theme=tokyonight)](https://github.com/itsLog1cs/github-readme-stats)
-![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsLog1cs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=tokyonight)](https://github.com/log1cs/github-readme-stats)
+![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=tokyonight)
 
 
 
