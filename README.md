@@ -1,6 +1,6 @@
 # Hello! My name is Tuan Anh. Your average buildbot with some sense of development lmao <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
-
+Currently 18. Studying in Truong Dinh High School, Vietnam
 
 <table>
   <tr>
@@ -9,7 +9,6 @@
   </tr>
 </table>
 
-Stats(just ignore it, it's j4f tbh):
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=tokyonight)](https://github.com/log1cs/github-readme-stats)
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=tokyonight)
@@ -17,14 +16,14 @@ Stats(just ignore it, it's j4f tbh):
 
 
 
-I've finished basic with these languages:
+Famous with these languages:
  * <img align="left" alt="Python" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" /> Python
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
 
 - I’m currently learning <b>SQL in my next semester,HTML,or even CSS</b>
 
 
-Devices owned:
+Devices i am using:
 
 + Dell Vostro 15-3568(i3-7020u, 8GB RAM, 240GB SSD) <- This is my main laptop which mostly do the recovery building.
 
