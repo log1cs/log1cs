@@ -1,4 +1,4 @@
-# Hello! My name is Tuan Anh. Your average buildbot with some sense of development. <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
+# Hello! My name is Tuan Anh. Your average buildbot with some sense of development. 
 
 Currently 18. Un(officially) graduated from Truong Dinh High School, Vietnam
 
