@@ -20,14 +20,3 @@ Famous with these languages:
  * <img align="left" alt="Python" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" /> Python
  * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
 
-- I’m currently learning <b>SQL in my next semester,HTML,or even CSS</b>
-
-
-Devices i am using:
-
-+ Dell Vostro 15-3568(i3-7020u, 8GB RAM, 240GB SSD) <- This is my main laptop which mostly do the recovery building.
-
-+ Xiaomi Mi 9T Pro/Redmi K20 Pro (SM8150, 128GB Storage, 6GB RAM, Red) <- This is my main phone right now. Currently doing some " development" for the phone.
-
-+ Nokia 8 (MSM8998, 64GB Storage, 4GB RAM) <- side phone
-
