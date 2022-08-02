@@ -1,6 +1,6 @@
 # Hello! My name is Tuan Anh. Your average buildbot with some sense of development. 
 
-Currently 18. Un(officially) graduated from Truong Dinh High School, Vietnam
+Currently 18. Graduated from Truong Dinh High School, Vietnam
 
 <table>
   <tr>
