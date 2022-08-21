@@ -16,7 +16,5 @@ Currently 18. Graduated from Truong Dinh High School, Vietnam
 
 
 
-Famous with these languages:
- * <img align="left" alt="Python" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/python-14-569257.png" /> Python
- * <img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" /> C++
+
 
