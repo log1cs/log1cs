@@ -10,8 +10,8 @@ Currently 18. Graduated from Truong Dinh High School, Vietnam
 </table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=tokyonight)](https://github.com/log1cs/github-readme-stats)
-![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=gruvbox)](https://github.com/log1cs/github-readme-stats)
+![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=gruvbox)
 
 
 
