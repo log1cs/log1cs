@@ -1,6 +1,6 @@
-# Hello! My name is Tuan Anh. Your average buildbot with some sense of development. 
+# hello! my name is Tuan Anh. your average buildbot with some sense of development i guess?
 
-Currently 18. Graduated from Truong Dinh High School, Vietnam
+Currently 18. Graduated from Truong Dinh High School, Vietnam. Studying in Thuy Loi University (TLU) - Robotics & AI.
 
 <table>
   <tr>
@@ -13,6 +13,10 @@ Currently 18. Graduated from Truong Dinh High School, Vietnam
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&theme=synthwave)](https://github.com/log1cs/github-readme-stats)
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=synthwave)
 
+## Device that I'm owning:
+- Nokia 8 (TA-1004) - currently maintaining xdroid official
+
+- OnePlus 9R (LE2101)
 
 ## Social Accounts:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
