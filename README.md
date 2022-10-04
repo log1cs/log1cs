@@ -1,4 +1,4 @@
-# hello! my name is Tuan Anh. your average buildbot with some sense of development i guess?
+# hello! my name is Tuan Anh, your average buildbot with some sense of development i guess?
 
 Currently 18. Graduated from Truong Dinh High School, Vietnam. Studying in Thuy Loi University (TLU) - Robotics & AI.
 
