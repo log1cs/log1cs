@@ -14,7 +14,7 @@ Currently 18. Graduated from Truong Dinh High School, Vietnam. Studying in Thuy 
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&show_icons=true&theme=synthwave)
 
 ## Devices:
-- Nokia 8 (TA-1004) - currently maintaining xdroid official
+- Nokia 8 (TA-1004)
 
 - OnePlus 9R (LE2101)
 
