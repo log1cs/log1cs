@@ -1,6 +1,6 @@
-# hello! my name is Tuan Anh, your average buildbot with some sense of development i guess?
+# hi!
 
-Currently 19. Graduated from Truong Dinh High School, Vietnam. Studying in Thuy Loi University (TLU) - Robotics & AI.
+19yo male. Graduated from Truong Dinh High School, Vietnam. Studying in Thuy Loi University (TLU) - Robotics & AI.
 
 <table>
   <tr>
