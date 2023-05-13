@@ -16,7 +16,9 @@ former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&layout=compact&theme=tokyonight)
 
 ## Devices:
-- Nokia 8 (TA-1004)
+- Xiaomi Mi Max (hydrogen)
+
+- Sony Xperia SP (C5303)
 
 - OnePlus 8 (IN2017)
 
