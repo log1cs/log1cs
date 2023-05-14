@@ -1,7 +1,5 @@
 # こんにちは!
 
-19yo male
-
 former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics and artificial intelligence (freshman)
 
 <table>
