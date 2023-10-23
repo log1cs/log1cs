@@ -4,13 +4,14 @@ former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics
 
 Language to communicate: mainly VI/EN/RU and a few French, German (also Spanish too)
 
+<!--
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/log1cs/count.svg" alt="vistor count" height="30" /></td>
   </tr>
-</table>
-
+</table> 
+-->
 
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&layout=compact&theme=tokyonight)
