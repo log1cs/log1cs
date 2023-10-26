@@ -26,7 +26,7 @@ Language to communicate: mainly VI/EN/RU and a few French, German (also Spanish 
 - OnePlus 8 (IN2017)
 
 ## Recently played songs
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21j6c4uagoky7m7hqrk6db3sa&count={3})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21j6c4uagoky7m7hqrk6db3sa&count=3)
 
 ## Reach me at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
