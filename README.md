@@ -2,7 +2,7 @@
 
 former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics and artificial intelligence (freshman)
 
-Language to communicate: mainly VI/EN/RU and a few French, German (also Spanish too)
+Language to communicate: mainly VI/EN/RU. <!-- and a few French, German (also Spanish too) -->
 
 <!--
 <table>
