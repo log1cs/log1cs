@@ -1,6 +1,6 @@
 # こんにちは!
 
-former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics and artificial intelligence (freshman)
+former Truong Dinh High School student, now studying at Thuy Loi Uni. - robotics and artificial intelligence (2nd year, i hate this so much lmao)
 
 Language to communicate: mainly VI/EN/RU. <!-- and a few French, German (also Spanish too) -->
 
