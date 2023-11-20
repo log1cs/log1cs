@@ -29,6 +29,9 @@ Language to communicate: mainly VI/EN/RU. <!-- and a few French, German (also Sp
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21j6c4uagoky7m7hqrk6db3sa&width=800)
 -->
 
+## My projects:
+[LycorisOSS (store my inactive and rarely active repos)](https://github.com/Lycoris-Open-Source)
+
 ## Reach me at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/log1cs)
