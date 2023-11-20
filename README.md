@@ -30,7 +30,7 @@ Language to communicate: mainly VI/EN/RU. <!-- and a few French, German (also Sp
 -->
 
 ## My projects:
-[LycorisOSS (store my inactive and rarely active repos)](https://github.com/Lycoris-Open-Source)
+**LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/Lycoris-Open-Source)
 
 ## Reach me at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
