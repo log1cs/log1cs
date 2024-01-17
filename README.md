@@ -25,9 +25,9 @@ Language to communicate: mainly VI/EN/RU. <!-- and a few French, German (also Sp
 
 - OnePlus 8 (IN2017)
 
-<!-- ## Recently played songs
+## Recently played songs
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21j6c4uagoky7m7hqrk6db3sa&width=800)
--->
+
 
 ## My projects:
 **LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/LycorisOSS)
