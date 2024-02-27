@@ -1,6 +1,7 @@
 # こんにちは!
 
 former Truong Dinh High School student, now studying at
+
 Thuy Loi Uni. - robotics and artificial intelligence (2nd year, i hate this so much lmao)
 
 Language to communicate: mainly Vietnamese and English + a little bit of Russian.
