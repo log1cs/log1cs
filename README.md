@@ -5,7 +5,6 @@ a student from Thuy Loi University, apparently I love it one day.
 Language to communicate: mainly Vietnamese and English, can use more language but I won't tell which is.
 
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=log1cs&layout=compact&theme=tokyonight)
 
 ## My projects:
 **LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/LycorisOSS)
