@@ -2,6 +2,8 @@
 
 a student from Thuy Loi University, apparently I love it one day.
 
+studying robotics, I hate it so much.
+
 Language to communicate: mainly Vietnamese and English, can communicate in more language in a non fluent way.
 
 ![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&count_private=true&show_icons=true&theme=tokyonight)
