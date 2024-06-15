@@ -2,7 +2,7 @@
 
 a student from Thuy Loi University, apparently I love it one day.
 
-studying robotics, I hate it so much.
+studying robotics, I hate it so much (someone please get me out of here, language™️ majors are fine).
 
 Language to communicate: mainly Vietnamese and English, can communicate in more language in a non fluent way.
 
