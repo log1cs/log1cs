@@ -6,8 +6,6 @@ studying robotics, I hate it so much (someone please get me out of here, languag
 
 Language to communicate: mainly Vietnamese and English, can communicate in more language in a non fluent way.
 
-![Log1cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=log1cs&count_private=true&show_icons=true&theme=tokyonight)
-
 ## My projects:
 **LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/LycorisOSS)
 
