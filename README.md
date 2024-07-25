@@ -6,12 +6,12 @@ studying robotics, I hate it so much (someone please get me out of here, languag
 
 Language to communicate: mainly Vietnamese and English, can communicate in more languages in a non-fluent way.
 
-## My projects (at all):
-**LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/LycorisOSS)
+## My projects (at all, I'm your local buildbot™️):
+**LycorisOSS (store my inactive and rarely active repos):** [LycorisOSS](https://github.com/LycorisOSS)
 
-**Nokia MSM8998/SDM660 devices** [here](https://github.com/nokia-msm8998)
+**Nokia msm8998/sdm660 devices:** [nokia-msm8998](https://github.com/nokia-msm8998)
 
-**LGE SDM845 devices** [here](https://github.com/lge-sdm845)
+**LGE sdm845 devices:** [lge-sdm845](https://github.com/lge-sdm845)
 
 ## Reach me at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
