@@ -8,7 +8,9 @@ Language to communicate: mainly Vietnamese and English, can communicate in more 
 
 ## My projects (at all):
 **LycorisOSS (store my inactive and rarely active repos)** [here](https://github.com/LycorisOSS)
+
 **Nokia MSM8998/SDM660 devices** [here](https://github.com/nokia-msm8998)
+
 **LGE SDM845 devices** [here](https://github.com/lge-sdm845)
 
 ## Reach me at:
