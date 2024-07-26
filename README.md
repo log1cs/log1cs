@@ -5,11 +5,11 @@ a student from Thuy Loi University, apparently I loved it one day.
 studying robotics, I hate it so much (someone please get me out of here, language™️ majors are fine).
 
 ## My projects (at all, I'm your local buildbot™️):
-**LycorisOSS (store my inactive and rarely active repos):** [LycorisOSS](https://github.com/LycorisOSS)
+[LycorisOSS](https://github.com/LycorisOSS) **is where I store my inactive and rarely active repos.** 
 
-**Nokia msm8998/sdm660 devices:** [nokia-msm8998](https://github.com/nokia-msm8998)
+[nokia-msm8998](https://github.com/nokia-msm8998) - **Device configurations to build AOSP and everything related to Nokia (of course, it's the HMD Nokia one, not the old one) that came with MSM8998/SDM660 out of the box, you can probably found what you need here.**
 
-**LGE sdm845 devices:** [lge-sdm845](https://github.com/lge-sdm845)
+[lge-sdm845](https://github.com/lge-sdm845) - **Device configurations to build AOSP for LG devices that came with SDM845 out of the box.**
 
 ## Reach me at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/log1csssss/)
