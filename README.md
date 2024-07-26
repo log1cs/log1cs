@@ -4,8 +4,6 @@ a student from Thuy Loi University, apparently I loved it one day.
 
 studying robotics, I hate it so much (someone please get me out of here, language™️ majors are fine).
 
-Language to communicate: mainly Vietnamese and English, can communicate in more languages in a non-fluent way.
-
 ## My projects (at all, I'm your local buildbot™️):
 **LycorisOSS (store my inactive and rarely active repos):** [LycorisOSS](https://github.com/LycorisOSS)
 
