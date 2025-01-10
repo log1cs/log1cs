@@ -11,7 +11,7 @@ studying robotics, I hate it so much (someone please get me out of here, languag
 
 [lge-sdm845](https://github.com/lge-sdm845) - **Device configurations to build AOSP for LGE devices with sdm845 platform.**
 
-[sony-nagara](https://github.com/sony-nagara) - **Device configurations to build AOSP for Sony Nagara devices.**
+[sony-nagara](https://github.com/sony-nagara) - **Device configurations to build AOSP for Sony sm8450 (Nagara) platform.**
 
 ## Reach me at:
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/log1cs)
