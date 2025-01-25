@@ -4,7 +4,7 @@ a student from Thuy Loi University, apparently I loved it one day.
 
 studying robotics, I hate it so much (someone please get me out of here, language™️ majors are fine).
 
-## Checkout:
+## Checkout our super duper old supported devices (some of these are not :D):
 [LycorisOSS](https://github.com/LycorisOSS) | [nokia-msm8998](https://github.com/nokia-msm8998) | [lge-sdm845](https://github.com/lge-sdm845) | [sony-nagara](https://github.com/sony-nagara)
 
 ## Reach me at:
