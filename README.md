@@ -1,6 +1,5 @@
 # Здравствуйте!
-
-a student from Thuy Loi University, apparently I loved it [one day](https://www.youtube.com/watch?v=34Nj0OlI5ws) (one day is more than enough, not everyday).
+your local AOSP buildbot!
 
 ## You can find me here:
 - [LycorisOSS](https://github.com/LycorisOSS)
