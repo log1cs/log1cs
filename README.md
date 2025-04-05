@@ -1,6 +1,4 @@
 # Здравствуйте!
-your local AOSP buildbot!
-
 ## You can find me here:
 - [LycorisOSS](https://github.com/LycorisOSS)
 - [nokia-msm8998](https://github.com/nokia-msm8998)
