@@ -1,5 +1,5 @@
 # hola!
-## You can find me here:
+## i am "currently" living here:
 - [LycorisOSS](https://github.com/LycorisOSS)
 - [nokia-msm8998](https://github.com/nokia-msm8998)
 - [lge-sdm845](https://github.com/lge-sdm845)
